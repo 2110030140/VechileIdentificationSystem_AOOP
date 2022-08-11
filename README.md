@@ -5,7 +5,9 @@ Team Members : 2110030043
                2110030105 
                2110030140
  
-Word Character Counter in Java with Source Code: We can develop Word Character Counter in java with the help of string, AWT/Swing with event handling. Let's see the code of creating Word Character Counter in java.
+Online word counters are a perfect tool for anyone who needs to keep a count of their words and characters, but doesn’t use Microsoft Word. Imagine writing a piece and having to manually count the words! Not only will it take forever, but there’s a chance you won’t be wholly accurate.
+This tool is also a good way to assess your words per minute typing rate. Simply time yourself timing for five minutes. Type into the box on the online word counter. When the time is up, divide your total word count by five, and you have your average words per minute rate.
+
 
 Review-1
 
